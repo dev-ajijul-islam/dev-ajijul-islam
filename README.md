@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <strong>MD. Ajijul Islam</strong></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=50&duration=3000&pause=500&color=00C9A7&center=true&vCenter=true&width=750&lines=Flutter+%26+MERN+Stack+Developer;Next.js+%26+Cross-Platform+Expert;Clean+Architecture+%7C+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=40&duration=3000&pause=500&color=00C9A7&center=true&vCenter=true&width=750&lines=Flutter+%26+MERN+Stack+Developer;Next.js+%26+Cross-Platform+Expert;Clean+Architecture+%7C+Scalable+Systems" alt="Typing SVG" />
 </p>
 <h3 align="center">Flutter Developer • MERN Stack Developer • Cross-Platform App Builder</h3>
 
